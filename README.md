@@ -5,6 +5,6 @@
   <title>Dinamo</title>
 </head>
 <body>
-<a>Dinamo</a>
+<a href="index.html">Открыть проект Dinamo</a>
 </body>
 </html>
